@@ -5,7 +5,7 @@
 }
 
 #intro {
-  background-color: linear-gradient(45deg,#FFCCCC,#CCFFFF);
+  background: linear-gradient(45deg,#FFCCCC,#CCFFFF);
   text-align: center;
   color: lightgrey;
   padding: 50px;
@@ -13,4 +13,5 @@
 
 #main {
   background: url("https://i.imgur.com/MJAkxbh.png");
+  padding: 20px;
 }
