@@ -1,17 +1,18 @@
-#name {
-  font-size: 50px;
-  font-family: "Laila", serif;
-  color: lightgrey;
-}
-
 #intro {
   background-image: linear-gradient(45deg,#FFCCCC,#CCFFFF);
   text-align: center;
-  color: lightgrey;
-  padding: 50px;
+  color: white;
+  padding: 100px;
+}
+
+#name {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Laila", serif;
+  color: white;
 }
 
 #main {
   background: url("https://i.imgur.com/MJAkxbh.png");
-  padding: 20px;
+  padding: 50px;
 }
