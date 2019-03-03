@@ -1,3 +1,8 @@
+#name {
+  font-size: 50px;
+  font-family: "Laila", serif;
+}
+
 #intro {
   background-color: linear-gradient(45deg,#FFCCCC,#CCFFFF);
   text-align: center;
@@ -5,7 +10,6 @@
   padding: 100px;
 }
 
-#name {
-  font-size: 50px;
-  font-family: "Laila", serif;
+#main {
+  background: url("https://i.imgur.com/MJAkxbh.png");
 }
