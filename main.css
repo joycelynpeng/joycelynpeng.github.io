@@ -1,0 +1,11 @@
+#intro {
+  background-color: linear-gradient(45deg,#FFCCCC,#CCFFFF);
+  text-align: center;
+  color: white;
+  padding: 100px;
+}
+
+#name {
+  font-size: 50px;
+  font-family: "Laila", serif;
+}
